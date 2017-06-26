@@ -126,3 +126,16 @@ a {
   padding: 10px;
   margin: 5px 20px;
 }
+
+/* Contact Section */
+
+#contact{
+  height: 200px;
+}
+
+/* Footer Section */
+
+footer{
+  text-align: left;
+  padding-left: 20px;
+}
